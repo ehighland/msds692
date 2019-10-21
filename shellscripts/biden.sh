@@ -24,3 +24,15 @@ mv output_got.csv biden0921.csv
 
 GetOldTweets3 --querysearch "'Joe Biden' OR #JoeBiden" --since 2019-09-24 --until 2019-09-25 --maxtweets 100
 mv output_got.csv biden0924.csv
+
+GetOldTweets3 --querysearch "'Joe Biden' OR #JoeBiden" --since 2019-09-29 --until 2019-09-30 --maxtweets 100
+mv output_got.csv biden0929.csv
+
+GetOldTweets3 --querysearch "'Joe Biden' OR #JoeBiden" --since 2019-10-03 --until 2019-10-04 --maxtweets 100
+mv output_got.csv biden1003.csv
+
+GetOldTweets3 --querysearch "'Joe Biden' OR #JoeBiden" --since 2019-10-07 --until 2019-10-08 --maxtweets 100
+mv output_got.csv biden1007.csv
+
+GetOldTweets3 --querysearch "'Joe Biden' OR #JoeBiden" --since 2019-10-16 --until 2019-10-17 --maxtweets 100
+mv output_got.csv biden1016.csv
