@@ -12,7 +12,7 @@ I used sentiment polarity analysis on mined Twitter data to get a sense of how r
 #### Conclusion
 I do not believe that the predictions herein can be considered fully reliable, but there are some
 slight correlations shown. These correlations can be compared to those uncovered by the Tableau
-viz, found here. I found that less of a correlation is shown in the Tableau viz than shown here. The
+viz, found here. I found that less of a correlation is shown in the Tableau viz than [shown here](https://public.tableau.com/profile/emma.highland#!/vizhome/MSDS692/Pollcomparison). The
 visualized time series only shows a pattern (an inverse correlation) withWarren, where the Twitter
 sentiments become less positive over time, while her poll order rises. Sanders has stagnated in his poll ordering, as shown here as well with the consistency of his 3rd place prediction. His
 sentiment scores have become slightly more positive over time, but I would have expected the
